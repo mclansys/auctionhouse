@@ -72,7 +72,7 @@ const CreateListAuctionHouse = async() => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
      <div className='main_'>
-        <button className='btn' onClick={CreateListAuctionHouse}>Create AuctionHouese</button>
+       <button className='btn' onClick={CreateListAuctionHouse}>CreateListAuctionHouse</button>
      </div>
     </>
   )
